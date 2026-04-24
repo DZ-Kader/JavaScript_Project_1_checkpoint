@@ -7,7 +7,7 @@ I created an account on Edabit and started solving different challenges. I tried
 
 ## My Progress
 - I solved multiple challenges on Edabit
-- I collected more than 100 points
+- I collected 100 points
 - I practiced both easy and medium level problems
 
 ---
